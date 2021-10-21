@@ -1,0 +1,5 @@
+D:\Project\Unity\PrivateFramework\PrivateFramework\Temp\Bin\Debug\Unity.TextMeshPro.Tests.dll
+D:\Project\Unity\PrivateFramework\PrivateFramework\Temp\Bin\Debug\Unity.TextMeshPro.Tests.pdb
+D:\Project\Unity\PrivateFramework\PrivateFramework\obj\Debug\Unity.TextMeshPro.Tests.csproj.CoreCompileInputs.cache
+D:\Project\Unity\PrivateFramework\PrivateFramework\obj\Debug\Unity.TextMeshPro.Tests.dll
+D:\Project\Unity\PrivateFramework\PrivateFramework\obj\Debug\Unity.TextMeshPro.Tests.pdb

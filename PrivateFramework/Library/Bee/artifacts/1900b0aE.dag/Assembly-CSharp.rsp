@@ -324,8 +324,10 @@
 "Assets/02.Scripts/Common/Define.cs"
 "Assets/02.Scripts/Data/InGameData.cs"
 "Assets/02.Scripts/Managers/GameManager.cs"
+"Assets/02.Scripts/Managers/InputManager.cs"
 "Assets/02.Scripts/Managers/Managers.cs"
 "Assets/02.Scripts/Managers/SoundManager.cs"
+"Assets/02.Scripts/Managers/StateManager.cs"
 -langversion:8.0
 
 /deterministic

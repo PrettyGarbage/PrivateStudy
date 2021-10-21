@@ -1,0 +1,5 @@
+D:\Project\Unity\PrivateFramework\PrivateFramework\Temp\Bin\Debug\UnityEngine.UI.Tests.dll
+D:\Project\Unity\PrivateFramework\PrivateFramework\Temp\Bin\Debug\UnityEngine.UI.Tests.pdb
+D:\Project\Unity\PrivateFramework\PrivateFramework\obj\Debug\UnityEngine.UI.Tests.csproj.CoreCompileInputs.cache
+D:\Project\Unity\PrivateFramework\PrivateFramework\obj\Debug\UnityEngine.UI.Tests.dll
+D:\Project\Unity\PrivateFramework\PrivateFramework\obj\Debug\UnityEngine.UI.Tests.pdb

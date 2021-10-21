@@ -9,9 +9,11 @@ public class GameManager
 
     public InGameData InGameData => _inGameData;
 
-    public void Init()
+    public IEnumerator Init()
     {
         _inGameData = new InGameData();
+
+        yield return null;
     }
 
     public void Restart()
