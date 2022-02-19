@@ -73,3 +73,10 @@ InitTestScene*.unity
 
 # End of https://www.toptal.com/developers/gitignore/api/unity
 .vsconfig
+
+# private
+PrivateFramework/Library/
+PrivateFramework/Temp/
+PrivateFramework/UserSettings/
+PrivateFramework/Obj/
+PrivateFramework/Logs
