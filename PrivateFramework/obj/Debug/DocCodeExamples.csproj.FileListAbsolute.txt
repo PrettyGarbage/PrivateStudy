@@ -1,5 +1,0 @@
-D:\Project\Unity\PrivateFramework\PrivateFramework\Temp\Bin\Debug\DocCodeExamples.dll
-D:\Project\Unity\PrivateFramework\PrivateFramework\Temp\Bin\Debug\DocCodeExamples.pdb
-D:\Project\Unity\PrivateFramework\PrivateFramework\obj\Debug\DocCodeExamples.csproj.CoreCompileInputs.cache
-D:\Project\Unity\PrivateFramework\PrivateFramework\obj\Debug\DocCodeExamples.dll
-D:\Project\Unity\PrivateFramework\PrivateFramework\obj\Debug\DocCodeExamples.pdb

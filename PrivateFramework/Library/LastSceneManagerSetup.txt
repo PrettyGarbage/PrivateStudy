@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Plugins/Demigiant/DOTweenPro Examples/DOTweenAnimation_Basics.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
